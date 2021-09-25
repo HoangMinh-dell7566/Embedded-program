@@ -1,0 +1,1 @@
+Tạo hệ thống arduino và Leb, khi cấp nguồn thì đèn sáng
