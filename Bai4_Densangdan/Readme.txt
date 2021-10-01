@@ -1,0 +1,1 @@
+Sử dụng chân ~9 PWM, xuất các mức điện áp đầu ra thay đổi từ 0-5V , để làm cho đèn LED sáng dần. thời gian thực hiện trong vòng 30 milisecond
