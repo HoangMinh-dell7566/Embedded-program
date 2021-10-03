@@ -1,0 +1,1 @@
+thực hiện làm cho đèn Led RGB sáng đổi màu liên tục ngẫu nhiên, có độ trễ 1 giây

@@ -1,0 +1,1 @@
+Hệ thống được thiết kế để cho phép điều khiển độ sáng của Led (chân 9) thông qua 1 biến trở  gắn ở chân A0
