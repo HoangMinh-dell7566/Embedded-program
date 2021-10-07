@@ -1,4 +1,4 @@
 Phạm Minh Hoàng - 61131788
 <hr>
-<h1> Embedded-program </h1>
+<h1> repository of Embedded Programming Exercises Archive 💪💪💪</h1>
 
