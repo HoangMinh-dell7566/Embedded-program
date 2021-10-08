@@ -1,0 +1,1 @@
+Bài thực hành lập trình để điều khiển 8 đèn led sáng lần lượt với độ trễ 0.5 giây, thông qua IC 74HC595 được đấu trực tiếp với arduino thông qua các cổng 5 nối với chân 14(data), cổng 6 nối với chân 12(latch), cổng 7 nối với chân 11(clock), các chân từ Q0-Q7 được đấu lần lượt với 8 đèn led của IC.  
