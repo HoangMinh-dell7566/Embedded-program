@@ -1,0 +1,1 @@
+Bài thực hành lập trình điều khiển ma trận led 8x8, thông qua 2 IC 74HC595, 1 dùng để điều khiển cột, 1 dùng để điều khiển hàng, 2 IC được đấu trực tiếp vào arduino thông qua các cổng 13(SH_CP IC1), 12(DS IC1), 7(SH_CP IC2), 6(DS IC2) và đều dùng cổng 11 để nối vs chân 12(ST_CP) của 2 IC, các chân từ Q0-Q7 lần lượt được đấu vào ma trận led để điều khiển.
