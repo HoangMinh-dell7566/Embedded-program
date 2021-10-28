@@ -1,0 +1,1 @@
+Bài thực hành lập trình sử dụng vi điều khiển STM32 (ARM), thực hiện làm cho 4 đèn sáng lần lượt với độ trễ 0,5 giây. Các đèn được đấu lần lượt vào các chân PD12, PD13, PD14, PD15.
