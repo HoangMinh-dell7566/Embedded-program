@@ -1,0 +1,1 @@
+Bài thực hành lập trình hệ thống ngắt ngoài sử dụng vi điều khiển STM32F401VE, thực hiện khi bấm nút thì sẽ thay đổi trạng thái của đèn từ sáng sang tắt, và ngược lại. Chân PA0 được dùng để nhận tín hiệu ngắt, còn chân PD12 để xuất tín hiệu cho đèn Led.
