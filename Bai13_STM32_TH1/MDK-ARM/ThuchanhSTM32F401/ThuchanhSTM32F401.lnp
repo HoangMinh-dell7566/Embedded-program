@@ -1,0 +1,25 @@
+--cpu Cortex-M4.fp
+"thuchanhstm32f401\startup_stm32f401xe.o"
+"thuchanhstm32f401\main.o"
+"thuchanhstm32f401\stm32f4xx_it.o"
+"thuchanhstm32f401\stm32f4xx_hal_msp.o"
+"thuchanhstm32f401\stm32f4xx_hal_tim.o"
+"thuchanhstm32f401\stm32f4xx_hal_tim_ex.o"
+"thuchanhstm32f401\stm32f4xx_hal_rcc.o"
+"thuchanhstm32f401\stm32f4xx_hal_rcc_ex.o"
+"thuchanhstm32f401\stm32f4xx_hal_flash.o"
+"thuchanhstm32f401\stm32f4xx_hal_flash_ex.o"
+"thuchanhstm32f401\stm32f4xx_hal_flash_ramfunc.o"
+"thuchanhstm32f401\stm32f4xx_hal_gpio.o"
+"thuchanhstm32f401\stm32f4xx_hal_dma_ex.o"
+"thuchanhstm32f401\stm32f4xx_hal_dma.o"
+"thuchanhstm32f401\stm32f4xx_hal_pwr.o"
+"thuchanhstm32f401\stm32f4xx_hal_pwr_ex.o"
+"thuchanhstm32f401\stm32f4xx_hal_cortex.o"
+"thuchanhstm32f401\stm32f4xx_hal.o"
+"thuchanhstm32f401\stm32f4xx_hal_exti.o"
+"thuchanhstm32f401\system_stm32f4xx.o"
+--library_type=microlib --strict --scatter "ThuchanhSTM32F401\ThuchanhSTM32F401.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "ThuchanhSTM32F401.map" -o ThuchanhSTM32F401\ThuchanhSTM32F401.axf
