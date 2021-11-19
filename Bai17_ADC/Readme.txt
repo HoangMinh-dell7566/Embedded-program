@@ -1,0 +1,1 @@
+Bài thực hành lập trình sử dụng vi điều khiển STM32(ARM), thực hiện điều khiển Led thông qua chiết áp khi điều chỉnh giá trị của chiết áp lớn hơn 25 thì đèn sáng ngược lại thì tắt, tín hiệu được đọc vào ở chân PA0, và xuất ra trực tiếp vào đèn Led ở chân PD0.

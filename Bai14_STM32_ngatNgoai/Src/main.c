@@ -11,14 +11,13 @@ int main(void)
   while (1)
   {
     HAL_GPIO_TogglePin(GPIOD,GPIO_PIN_0|GPIO_PIN_1|GPIO_PIN_2|GPIO_PIN_3);
-		HAL_Delay(100);
+		HAL_Delay(1000);
   }
   /* USER CODE END 3 */
 }
 void HAL_GPIO_EXTI_Callback(uint16_t GPIO_Pin) {
 		if(GPIO_Pin == GPIO_PIN_0){
-				HAL_GPIO_TogglePin(GPIOA,GPIO_PIN_10);
-				HAL_GPIO_TogglePin(GPIOA,GPIO_PIN_11);
+				HAL_GPIO_TogglePin(GPIOA,GPIO_PIN_10|GPIO_PIN_11);
 		}
 }
 void SystemClock_Config(void)
