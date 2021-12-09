@@ -1,0 +1,1 @@
+Bài thực hành làm thêm, lập trình arduino điều khiển động cơ bước bằng IC L298D. Động cơ bước được điều khiển thông qua việc nhận tín hiệu từ các chân 8,9,10,11 của arduino, từ đó xuất tín hiệu để điều khiển động cơ bước quay với tần số góc là 18.
