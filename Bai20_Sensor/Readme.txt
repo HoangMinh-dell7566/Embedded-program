@@ -1,0 +1,1 @@
+ bài thực hành lập trình arduino mô phỏng điều khiển 4 servo quay khi nhận được tín hiệu của cảm biến hồng ngoại. Nếu có vật cản thì servo quay 90 độ, đồng thời tắt led, Ngược lại, nếu gặp vật cản thì trở về trạng thái ban đầu và bật led. Các chân 6,7,8,9 được nối với 4 servo để điều khiển, chân 2 của arduino được dùng để nhận tín hiệu cảm biến.
