@@ -1,0 +1,1 @@
+Bài thực hành lập trình arduino, thực hiện điều khiển quang trở từ đó làm sáng đèn led bên dưới, khi có ánh sáng thì quang trở hoạt động làm sáng led, ngược lại led sẽ tắt. Chân 9 của arduino được nối với quang trở để nhận tín hiệu, khi có quang trở hoạt động sẽ có dòng điện chạy qua, sau đó xuất tín hiệu ra chân số 8 của arduino làm 4 led sáng. 

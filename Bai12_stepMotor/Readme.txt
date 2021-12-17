@@ -1,1 +1,0 @@
-Bài thực hành lập trình arduino điều khiển động cơ bước Step Motor, thông qua IC L293D. Động cơ được đấu vào IC ở các chân OUT1(3), OUT2(6), OUT3(11), OUT4(14), Tín hiệu đầu vào được truyền qua các chân IN1(2), IN2(7), IN3(10), IN4(15) của IC lấy dữ liệu trực tiếp từ board mạch arduino.

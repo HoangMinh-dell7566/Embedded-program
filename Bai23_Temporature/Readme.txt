@@ -1,0 +1,1 @@
+Bài thực hành lập trình arduino, thực hiện cảm biến nhiệt độ, độ ẩm môi trường thông báo kết quả ra LCD, các chân A4, A5 được nối với LCD để truyền dữ liệu kết quả ra LCD, chân A2 được đấu với chân out của cảm biến. 

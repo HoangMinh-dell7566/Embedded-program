@@ -1,0 +1,1 @@
+Bài thực hành arduino, thực hiện mô phỏng cảm biến khí gas trong môi trường, khi nhận thấy có khí gas lập tức hiển thị thông điệp cảnh báo lên màn hình LCD và bật loa báo động, các chân A4, A5 được đấu với IC PCF8574 để truyền dữ liệu hiển thị ra LCD, chân 7 đấu trực tiếp với loa, chân 8 kết nối với đèn led, chân 6 để nhận tín hiệu từ cảm biến. 

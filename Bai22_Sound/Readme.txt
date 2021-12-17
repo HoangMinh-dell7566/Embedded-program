@@ -1,0 +1,1 @@
+Bài thực hành lâp trình arduino, điểu khiển cảm biến âm thanh thông báo tín hiệu qua đèn led và màn hình LCD, khi có âm thanh đền sẽ sáng, đồng thời LCD hiển thị Noise. Các chân A4,A được nối trực tiếp với LCD để hiển thị thông điệp, chân 7 của ardui được nối với đèn led, còn chân 10 dùng để nhận tín hiệu từ cảm biến âm thanh.
